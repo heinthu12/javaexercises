@@ -1,2 +1,2 @@
-# java exercises
+# Java exercises
 My Java Exercises
