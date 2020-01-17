@@ -2,8 +2,8 @@
 /**
  * クラス cal の注釈をここに書きます.
  * 
- * @author (あなたの名前)
- * @version (バージョン番号もしくは日付)
+ * @author (Hein thu)
+ * @version (17/1/2020)
  */
 import java.util.Scanner;
 public class Calculator {
