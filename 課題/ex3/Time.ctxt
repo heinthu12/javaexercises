@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Time
+comment0.text=\n\ \u30AF\u30E9\u30B9\ Time\ \u306E\u6CE8\u91C8\u3092\u3053\u3053\u306B\u66F8\u304D\u307E\u3059.\n\ \n\ @author\ (Hein\ Thu)\n\ @version\ (01/1/2020)\n
+comment1.params=hour\ minute\ second
+comment1.target=Time(int,\ int,\ double)
+comment2.params=
+comment2.target=int\ getHour()
+comment3.params=
+comment3.target=int\ getMinute()
+comment4.params=
+comment4.target=double\ getSecond()
+comment5.params=hour
+comment5.target=void\ setHour(int)
+comment6.params=minute
+comment6.target=void\ setMinute(int)
+comment7.params=second
+comment7.target=void\ setSecond(double)
+comment8.params=T
+comment8.target=void\ printTime(Time)
+numComments=9

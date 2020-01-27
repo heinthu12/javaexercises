@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\n\ \u30AF\u30E9\u30B9\ Student\ \u306E\u6CE8\u91C8\u3092\u3053\u3053\u306B\u66F8\u304D\u307E\u3059.\n\ \n\ @author\ (Hein\ Thu)\n\ @version\ (27/01/2020)\n
+comment1.params=fullName\ studentNumber\ email\ Country
+comment1.target=Student(java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment10.params=T
+comment10.target=void\ printStudent(Student)
+comment2.params=
+comment2.target=java.lang.String\ getFullName()
+comment3.params=
+comment3.target=int\ getStudentNumber()
+comment4.params=
+comment4.target=java.lang.String\ getEmail()
+comment5.params=
+comment5.target=java.lang.String\ getCountry()
+comment6.params=fullName
+comment6.target=void\ setFullName(java.lang.String)
+comment7.params=studentNumber
+comment7.target=void\ setStudentNumber(int)
+comment8.params=email
+comment8.target=void\ setEmail(java.lang.String)
+comment9.params=country
+comment9.target=void\ setCountry(java.lang.String)
+numComments=11
