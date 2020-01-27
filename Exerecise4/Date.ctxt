@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Date
+comment0.text=\n\ Write\ a\ description\ of\ class\ Date\ here.\n\n\ @author\ (Hein\ Thu\n\ @version\ (31/01/2020)\n
+comment1.params=year\ month\ day
+comment1.target=Date(int,\ int,\ int)
+comment2.params=b
+comment2.target=void\ Birthday(Date)
+numComments=3
